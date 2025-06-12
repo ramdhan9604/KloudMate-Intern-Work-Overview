@@ -63,7 +63,7 @@ This repository documents my internship work focused on observability, anomaly d
 - **LSTM (Long Short-Term Memory Networks):**
   - A type of recurrent neural network (RNN) capable of learning long-term dependencies in sequential data. Highly effective for time-series forecasting due to its memory cell structure.
 
-- [ARIMA vs SARIMA vs LSTM - Detailed Comparison](https://docs.google.com/document/d/1nAcJfakGkUiEl5kq0heTe8zvhUC48Y58Aq92iUoCxMo/edit?tab=t.0)
+- [Real Time ARIMA vs SARIMA vs LSTM - Detailed Comparison ](https://docs.google.com/document/d/1nAcJfakGkUiEl5kq0heTe8zvhUC48Y58Aq92iUoCxMo/edit?tab=t.0)
 
 #### Also Tested
 - **Exponential Moving Averages (EMA):**
